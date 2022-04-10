@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">i-CAMS</string>
+    <string name="title_activity_main_fragment">MainFragment</string>
+    <string name="title_home">Home</string>
+    <string name="title_scanner">Scanner</string>
+    <string name="title_records">Records</string>
+    <string name="text_title"><u>Last Scanned</u></string>
+</resources>

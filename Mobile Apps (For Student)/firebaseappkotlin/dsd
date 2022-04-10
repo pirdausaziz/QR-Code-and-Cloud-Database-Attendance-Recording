@@ -1,0 +1,11 @@
+[33mcommit a3fad3f6e60f421d78609b12bc18b13c1c079a16[m[33m ([m[1;36mHEAD -> [m[1;32mi_CAMS-build[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/i_CAMS-build[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Pirdaus Aziz <pirdausaziz@gmail.com>
+Date:   Thu Nov 25 13:52:17 2021 +0800
+
+    Removed Hero class
+
+[33mcommit fe05df02dfb18e0069613f16731d45cc0daea081[m
+Author: Pirdaus Aziz <pirdausaziz@gmail.com>
+Date:   Tue Nov 23 23:54:00 2021 +0800
+
+    Initial commit
